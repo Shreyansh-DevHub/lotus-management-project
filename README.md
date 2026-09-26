@@ -2,7 +2,21 @@
 
 *A shared, browser-based registry for lotus growers to track tubs, blooms, and grower notes — built from scratch with vanilla JavaScript and a hand-written Python backend.*
 
-![Lotus in bloom](Flowers/IMG-20260908-WA0020.jpg)
+---
+
+## Screenshots
+
+**Home** — landing page with rotating garden imagery and calls to action into the register.
+![Home view](screenshots/home.png)
+
+**Tub Register** — add a new tub record (with photo/video proof) and browse the live, searchable garden ledger.
+![Tub register view](screenshots/tub-register.png)
+
+**Garden View** — a dashboard-style summary of registered tubs, upcoming blooms, and recent activity.
+![Garden view](screenshots/garden-view.png)
+
+**Flower Archive** — a lazy-loaded gallery of real garden photos with a lightbox viewer.
+![Flower archive view](screenshots/flower-archive.png)
 
 ---
 
